@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "puppeteer": "^23.5.0"
+  },
+  "version": "1.0.0",
+  "description": "Testna",
+  "main": "index.js",
+  "author": "FELE",
+  "license": "MIT",
+  "private": false
+}
